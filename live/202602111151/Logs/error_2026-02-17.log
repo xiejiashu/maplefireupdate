@@ -1,0 +1,18 @@
+Error detected at 2026-02-17 22:03:24
+Stack Trace:
+0: DummyExport - 0x50bf5196
+1: DummyExport - 0x50bf5196
+2: DummyExport - 0x50bf5196
+3: DummyExport - 0x50bf5196
+4: [Unknown symbol] - 0x4aba94
+
+Error detected at 2026-02-17 22:03:24
+Stack Trace:
+0: DummyExport - 0x50bf5196
+1: DummyExport - 0x50bf5196
+2: DummyExport - 0x50bf5196
+3: DummyExport - 0x50bf5196
+4: ZtlTaskMemReallocImp - 0x994c00
+5: ZtlTaskMemReallocImp - 0x994c00
+6: [Unknown symbol] - 0x404b5d
+
